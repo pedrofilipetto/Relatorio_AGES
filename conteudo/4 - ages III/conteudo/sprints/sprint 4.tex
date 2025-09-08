@@ -1,0 +1,15 @@
+\subsection{Sprint 4}
+
+No início da Sprint 4 foram, novamente, separadas as tasks para cada integrante da equipe, porém não teríamos quase nada de novas features, essa Sprint seria composta em sua maior parte por correção de bugs.
+
+Durante essa Sprint eu fiquei responsável por corrigir alguns bugs que tínhamos encontrado com os audios e as imagens e por fazer uma integração com a \ac{api} Lumiar, uma \ac{api} da empresa das stakeholders. Essa \ac{api} deveria receber algumas informações dos usuários em alguns casos pré-determinados.
+
+Como já haviamos recebido um documento listando todas as coisas que estavam erradas no projeto, resolvi começar arrumando os audios e imagens. Foi bem simples fazer as correções necessárias, dado que era basicamente mudar a nomenclatura no \ac{s3} e atualizar nosso seed do banco de dados.
+
+A parte difícil dessa Sprint foi quando tive de fazer a integração. Inicialmente fiz uma chamada para a \ac{api} Lumiar toda vez que um usuário finalizava um módulo, porém, mais para o fim da Sprint recebemos um documento informando que essa integração deveria ser feita algumas vezes horas após o último acesso do usuário, mais especificamente 24 horas e 72 horas depois. Essa \ac{api} iria enviar uma notificação por WhatsApp para o usuário incentivando-o a voltar e terminar o módulo.
+
+Como nunca havia feito isso, precisei pesquisar e pensar um pouco e cheguei a conclusão que usar cron expressions seria uma boa alterantiva. Pedi ajuda ao professor orientador perguntando se ele sabia de alguma tecnologia que pudesse ser usada de forma fácil e ele me reportou que o próprio Springboot possui essa utilidade. Com essas informações montei uma lógica que executava uma vez por dia e verificava quais usuários deveria ser enviados para a \ac{api} Lumiar.
+
+Após a entrega as stakeholders se mostraram muito felizes com o resultado final do projeto, porém encontraram alguns erros no fluxo do guia montado por elas. Assim, pedimos, novamente, um reporte de todas alterações que seriam necessárias.
+
+Notamos que diversas coisas que foram reportadas como erradas, foram, na verdade, alteradas durante a Sprint 4 para ficarem como pedido no documento enviando anteriormente, mas, refizemos algumas alterações para ficarem do gosto das stakeholders.

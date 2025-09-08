@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  8 SEP 2025 13:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  8 SEP 2025 13:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,7 +886,7 @@ Package csquotes Info: Redefining alias 'default' -> 'brazil'.
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 46.
  (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
-) (main.aux (conteudo/0 - pre/0.1 - capa.aux) (conteudo/0 - pre/0.5 - resumo.aux) (conteudo/0 - pre/0.8 - siglas.aux) (conteudo/0 - pre/0.9 - sumario.aux) (conteudo/2 - ages I/index.aux) (conteudo/7 - pos/referencias.aux))
+) (main.aux (conteudo/0 - pre/0.1 - capa.aux) (conteudo/0 - pre/0.5 - resumo.aux) (conteudo/0 - pre/0.6 - ilustracoes.aux) (conteudo/0 - pre/0.8 - siglas.aux) (conteudo/0 - pre/0.9 - sumario.aux) (conteudo/1 - apresentacao/apresentacao.aux) (conteudo/2 - ages I/index.aux) (conteudo/7 - pos/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -1083,7 +1083,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 \end{resumo}
+l.9 \end{resumo}
                  [1
 
 
@@ -1091,17 +1091,32 @@ l.6 \end{resumo}
 
 
 ])
+\openout2 = `"conteudo/0 - pre/0.6 - ilustracoes.aux"'.
+
+ (conteudo/0 - pre/0.6 - ilustracoes.tex (main.lof)) [2
+
+
+
+
+]
 \openout2 = `"conteudo/0 - pre/0.8 - siglas.aux"'.
 
- (conteudo/0 - pre/0.8 - siglas.tex) [2
-
+ (conteudo/0 - pre/0.8 - siglas.tex) [3
 
 
 
 ]
 \openout2 = `"conteudo/0 - pre/0.9 - sumario.aux"'.
 
- (conteudo/0 - pre/0.9 - sumario.tex (main.toc)) [3
+ (conteudo/0 - pre/0.9 - sumario.tex (main.toc)) [4
+
+
+
+]
+\openout2 = `"conteudo/1 - apresentacao/apresentacao.aux"'.
+
+ (conteudo/1 - apresentacao/apresentacao.tex) [5
+
 
 
 
@@ -1109,7 +1124,18 @@ l.6 \end{resumo}
 \openout2 = `"conteudo/2 - ages I/index.aux"'.
 
  (conteudo/2 - ages I/index.tex (conteudo/2 - ages I/conteudo/1 - introducao.tex
-<conteudo//2 - ages I//conteudo//figures//foto-time.jpg, id=39, 2741.24126pt x 1704.3675pt>
+Package acronym Info: Label `acro:mprs' newly defined as it shall be overridden
+although it is yet undefined on input line 2.
+Package acronym Info: Label `acro:nimp' newly defined as it shall be overridden
+although it is yet undefined on input line 2.
+
+
+Package acronym Warning: Acronym nimp is not defined on input line 2.
+
+
+Package acronym Warning: Acronym nimp is not defined on input line 2.
+
+<conteudo//2 - ages I//conteudo//figures//foto-time.jpg, id=72, 2741.24126pt x 1704.3675pt>
 File: conteudo//2 - ages I//conteudo//figures//foto-time.jpg Graphic file (type jpg)
 <use conteudo//2 - ages I//conteudo//figures//foto-time.jpg>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//foto-time.jpg  used on input line 11.
@@ -1117,39 +1143,114 @@ Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//foto-time.jpg 
 ) (conteudo/2 - ages I/conteudo/2 - desenvolvimento.tex
 Package acronym Info: Label `acro:ages' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
- [4
+Package acronym Info: Label `acro:ages' overridden on input line 4.
+Package acronym Info: Label `acro:ages' overridden on input line 4.
+ [6
 
 
 
 
  <./conteudo//2 - ages I//conteudo//figures//foto-time.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 7.
+Package acronym Info: Label `acro:ages' overridden on input line 6.
+Package acronym Info: Label `acro:ages' overridden on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 16.
  (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-Overfull \hbox (0.23724pt too wide) in paragraph at lines 30--31
-\T1/phv/m/n/12 Python([][][]Python Soft-ware Foun-da-tion[][], [][]2025[][]) para o bac-kend e Post-greSQL([][][]PostgreSQL
- []
-
-) (conteudo/2 - ages I/conteudo/3 - atividades.tex [5] (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [6]))) [7]
-\openout2 = `"conteudo/7 - pos/referencias.aux"'.
-
- (conteudo/7 - pos/referencias.tex
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 16.
  (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) [8
+) [7]
+<conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg, id=114, 1009.97325pt x 579.51506pt>
+File: conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg Graphic file (type jpg)
+<use conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg  used on input line 32.
+(pdftex.def)             Requested size: 455.24411pt x 261.21265pt.
+ [8 <./conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg>]
+Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
+although it is yet undefined on input line 40.
+
+
+Package acronym Warning: Acronym aws is not defined on input line 40.
+
+
+Package acronym Warning: Acronym aws is not defined on input line 40.
+
+
+Package acronym Warning: Acronym aws is not defined on input line 40.
+
+<conteudo//2 - ages I//conteudo//figures//arquitetura.png, id=127, 634.62094pt x 411.03563pt>
+File: conteudo//2 - ages I//conteudo//figures//arquitetura.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//arquitetura.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//arquitetura.png  used on input line 45.
+(pdftex.def)             Requested size: 455.24411pt x 294.86665pt.
+[9 <./conteudo//2 - ages I//conteudo//figures//arquitetura.png>]
+<conteudo//2 - ages I//conteudo//figures//tela-login.png, id=167, 1927.2pt x 1084.05pt>
+File: conteudo//2 - ages I//conteudo//figures//tela-login.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//tela-login.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-login.png  used on input line 65.
+(pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
+<conteudo//2 - ages I//conteudo//figures//tela-home.png, id=170, 1927.2pt x 1084.05pt>
+File: conteudo//2 - ages I//conteudo//figures//tela-home.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//tela-home.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-home.png  used on input line 74.
+(pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
+ [10 <./conteudo//2 - ages I//conteudo//figures//tela-login.png>]
+<conteudo//2 - ages I//conteudo//figures//tela-caso.png, id=181, 1927.2pt x 1084.05pt>
+File: conteudo//2 - ages I//conteudo//figures//tela-caso.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//tela-caso.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-caso.png  used on input line 83.
+(pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
+<conteudo//2 - ages I//conteudo//figures//tela-vinculos.png, id=184, 1927.2pt x 1084.05pt>
+File: conteudo//2 - ages I//conteudo//figures//tela-vinculos.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//tela-vinculos.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-vinculos.png  used on input line 92.
+(pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
+ [11 <./conteudo//2 - ages I//conteudo//figures//tela-home.png> <./conteudo//2 - ages I//conteudo//figures//tela-caso.png>]) (conteudo/2 - ages I/conteudo/3 - atividades.tex (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-vinculos.png>]
+Package acronym Info: Label `acro:jwt' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+
+
+Package acronym Warning: Acronym jwt is not defined on input line 7.
+
+
+Package acronym Warning: Acronym jwt is not defined on input line 7.
+
+Package acronym Info: Label `acro:simba' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+
+Package acronym Warning: Acronym simba is not defined on input line 7.
+
+
+Package acronym Warning: Acronym simba is not defined on input line 7.
+
+Package acronym Info: Label `acro:sittel' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+
+Package acronym Warning: Acronym sittel is not defined on input line 7.
+
+
+Package acronym Warning: Acronym sittel is not defined on input line 7.
+
+) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+\openout2 = `"conteudo/7 - pos/referencias.aux"'.
+
+ (conteudo/7 - pos/referencias.tex [16
 
 
 
 
 ]
-\tf@toc=\write5
-\openout5 = `main.toc'.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
+) [17]
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
- (main.aux (conteudo/0 - pre/0.1 - capa.aux) (conteudo/0 - pre/0.5 - resumo.aux) (conteudo/0 - pre/0.8 - siglas.aux) (conteudo/0 - pre/0.9 - sumario.aux) (conteudo/2 - ages I/index.aux) (conteudo/7 - pos/referencias.aux))
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ (main.aux (conteudo/0 - pre/0.1 - capa.aux) (conteudo/0 - pre/0.5 - resumo.aux) (conteudo/0 - pre/0.6 - ilustracoes.aux) (conteudo/0 - pre/0.8 - siglas.aux) (conteudo/0 - pre/0.9 - sumario.aux) (conteudo/1 - apresentacao/apresentacao.aux) (conteudo/2 - ages I/index.aux) (conteudo/7 - pos/referencias.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1159,17 +1260,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25650 strings out of 474486
- 456667 string characters out of 5743756
- 1937542 words of memory out of 5000000
- 47507 multiletter control sequences out of 15000+600000
+ 25890 strings out of 474486
+ 465481 string characters out of 5743756
+ 1942542 words of memory out of 5000000
+ 47682 multiletter control sequences out of 15000+600000
  579641 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1188b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (9 pages, 772630 bytes).
+Output written on main.pdf (18 pages, 2297149 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 

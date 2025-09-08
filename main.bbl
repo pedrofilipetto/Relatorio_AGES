@@ -19,18 +19,198 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{ec2}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Amazon Web Services, Inc.}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://aws.amazon.com/ec2}. Acesso em 6 de setembro de 2025}
+      \field{title}{Amazon Elastic Compute Cloud (EC2)}
+      \field{year}{2025}
+    \endentry
+    \entry{s3}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Amazon Web Services, Inc.}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://aws.amazon.com/s3}. Acesso em 6 de setembro de 2025}
+      \field{title}{Amazon Simple Storage Service (S3)}
+      \field{year}{2025}
+    \endentry
+    \entry{amplify}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Amazon Web Services, Inc.}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://aws.amazon.com/amplify}. Acesso em 6 de setembro de 2025}
+      \field{title}{AWS Amplify}
+      \field{year}{2025}
+    \endentry
+    \entry{aws}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9145c8d27e8df3d15e63d3e2d5c53088}{%
+           family={{Amazon Web Services, Inc.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Amazon Web Services, Inc.}%
+      }
+      \strng{namehash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \strng{fullhash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \strng{bibnamehash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \strng{authorbibnamehash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \strng{authornamehash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \strng{authorfullhash}{9145c8d27e8df3d15e63d3e2d5c53088}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://aws.amazon.com}. Acesso em 2 de setembro de 2025}
+      \field{title}{Amazon Web Services}
+      \field{year}{2025}
+    \endentry
+    \entry{discord}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=573b8ac5a07d2eb8245e514a65f232b7}{%
+           family={{Discord Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, California}%
+      }
+      \list{publisher}{1}{%
+        {Discord Inc.}%
+      }
+      \strng{namehash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \strng{fullhash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \strng{bibnamehash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \strng{authorbibnamehash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \strng{authornamehash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \strng{authorfullhash}{573b8ac5a07d2eb8245e514a65f232b7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://discord.com}. Acesso em 6 de setembro de 2025}
+      \field{title}{Discord}
+      \field{year}{2025}
+    \endentry
+    \entry{docker}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6f3d214228cc5933c1a82019f7dc0e0}{%
+           family={{Docker, Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, California}%
+      }
+      \list{publisher}{1}{%
+        {Docker, Inc.}%
+      }
+      \strng{namehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{fullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{bibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorbibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authornamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorfullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://www.docker.com}. Acesso em 6 de setembro de 2025}
+      \field{title}{Docker}
+      \field{year}{2025}
+    \endentry
     \entry{figma}{software}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7943f45ccc92672a1ed36f1c91d256b7}{%
-           family={{Figma Inc.}},
+        {{un=0,uniquepart=base,hash=f8a42c0ddbbfddd84f5d3945bad7f8e9}{%
+           family={{Figma, Inc.}},
            familyi={F\bibinitperiod}}}%
       }
-      \strng{namehash}{7943f45ccc92672a1ed36f1c91d256b7}
-      \strng{fullhash}{7943f45ccc92672a1ed36f1c91d256b7}
-      \strng{bibnamehash}{7943f45ccc92672a1ed36f1c91d256b7}
-      \strng{authorbibnamehash}{7943f45ccc92672a1ed36f1c91d256b7}
-      \strng{authornamehash}{7943f45ccc92672a1ed36f1c91d256b7}
-      \strng{authorfullhash}{7943f45ccc92672a1ed36f1c91d256b7}
+      \list{location}{1}{%
+        {San Francisco, California}%
+      }
+      \list{publisher}{1}{%
+        {Figma, Inc.}%
+      }
+      \strng{namehash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
+      \strng{fullhash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
+      \strng{bibnamehash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
+      \strng{authorbibnamehash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
+      \strng{authornamehash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
+      \strng{authorfullhash}{f8a42c0ddbbfddd84f5d3945bad7f8e9}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -41,11 +221,45 @@
       \field{title}{Figma}
       \field{year}{2025}
     \endentry
+    \entry{gitlabrunner}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1beeea59b5d05c17b7a8cfb2cb0a76c}{%
+           family={{GitLab Inc.}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, California}%
+      }
+      \list{publisher}{1}{%
+        {GitLab Inc.}%
+      }
+      \strng{namehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \strng{fullhash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \strng{bibnamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \strng{authorbibnamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \strng{authornamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \strng{authorfullhash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://docs.gitlab.com/runner}. Acesso em 6 de setembro de 2025}
+      \field{title}{GitLab Runner}
+      \field{year}{2025}
+    \endentry
     \entry{react}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=350a86b0327152e3a50596538f38a5db}{%
            family={{Meta Platforms, Inc.}},
            familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Menlo Park, California}%
+      }
+      \list{publisher}{1}{%
+        {Meta Platforms, Inc.}%
       }
       \strng{namehash}{350a86b0327152e3a50596538f38a5db}
       \strng{fullhash}{350a86b0327152e3a50596538f38a5db}
@@ -69,6 +283,12 @@
            family={{Microsoft}},
            familyi={M\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Redmond, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Microsoft Corporation}%
+      }
       \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
       \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
       \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
@@ -85,11 +305,101 @@
       \field{title}{TypeScript}
       \field{year}{2025}
     \endentry
+    \entry{azuredevops}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9a8b868588ad4bc6b36c29936e26423}{%
+           family={{Microsoft Corporation}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Redmond, Washington}%
+      }
+      \list{publisher}{1}{%
+        {Microsoft Corporation}%
+      }
+      \strng{namehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{fullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{bibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorbibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authornamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorfullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://azure.microsoft.com/products/devops}. Acesso em 6 de setembro de 2025}
+      \field{title}{Azure DevOps}
+      \field{year}{2025}
+    \endentry
+    \entry{materialui}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50cfb6962dd89af2dc6e8df60a3db0db}{%
+           family={{MUI Team}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[S.l.]}%
+      }
+      \list{publisher}{1}{%
+        {MUI}%
+      }
+      \strng{namehash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \strng{fullhash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \strng{bibnamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \strng{authorbibnamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \strng{authornamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \strng{authorfullhash}{50cfb6962dd89af2dc6e8df60a3db0db}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://mui.com}. Acesso em 6 de setembro de 2025}
+      \field{title}{MUI}
+      \field{year}{2025}
+    \endentry
+    \entry{neo4j}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c62f21ebf40e60bcbdb27fa929899f6}{%
+           family={{Neo4j, Inc.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Mateo, California}%
+      }
+      \list{publisher}{1}{%
+        {Neo4j, Inc.}%
+      }
+      \strng{namehash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \strng{fullhash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \strng{bibnamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \strng{authorbibnamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \strng{authornamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \strng{authorfullhash}{2c62f21ebf40e60bcbdb27fa929899f6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://neo4j.com}. Acesso em 6 de setembro de 2025}
+      \field{title}{Neo4j Graph Database Platform}
+      \field{year}{2025}
+    \endentry
     \entry{postgresql}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
            family={{PostgreSQL Global Development Group}},
            familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Canada}%
+      }
+      \list{publisher}{1}{%
+        {PostgreSQL Global Development Group}%
       }
       \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
       \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
@@ -107,11 +417,65 @@
       \field{title}{PostgreSQL}
       \field{year}{2025}
     \endentry
+    \entry{figma-vincula}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6fe2632f59db58bfcbd696b086a1d806}{%
+           family={{Projeto Vincula}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{fullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{bibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorbibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authornamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorfullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em: \url{https://www.figma.com/design/mvL3UaJUd8Rnnctve1iSpV/Vincula-AGES}. Acesso em 6 de setembro de 2025}
+      \field{title}{Figma do Projeto Vincula}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki-vincula}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6fe2632f59db58bfcbd696b086a1d806}{%
+           family={{Projeto Vincula}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{fullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{bibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorbibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authornamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorfullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em: \url{https://tools.ages.pucrs.br/vincula/wiki/-/wikis/home}. Acesso em 6 de setembro de 2025}
+      \field{title}{Wiki do Projeto Vincula}
+      \field{year}{2025}
+    \endentry
     \entry{python}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c7b5508dc5e59a2846d22617276cc27c}{%
            family={{Python Software Foundation}},
            familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beaverton, Oregon}%
+      }
+      \list{publisher}{1}{%
+        {Python Software Foundation}%
       }
       \strng{namehash}{c7b5508dc5e59a2846d22617276cc27c}
       \strng{fullhash}{c7b5508dc5e59a2846d22617276cc27c}
@@ -129,23 +493,64 @@
       \field{title}{Python}
       \field{year}{2025}
     \endentry
-    \entry{fastapi}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f5305ee02dd2a5c6215b53401b4a10b0}{%
-           family={Ramírez},
-           familyi={R\bibinitperiod},
-           given={Sebastián},
-           giveni={S\bibinitperiod},
+    \entry{scrum}{manual}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
+           family={Schwaber},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3f26f6f816a26c6ab36bc7a899bcde}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \strng{fullhash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \strng{bibnamehash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \strng{authorbibnamehash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \strng{authornamehash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \strng{authorfullhash}{f5305ee02dd2a5c6215b53401b4a10b0}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \list{location}{1}{%
+        {Burlington, Massachusetts}%
+      }
+      \list{organization}{1}{%
+        {Scrum.org}%
+      }
+      \strng{namehash}{303ea1dc92fd8c772eac56316b2074ef}
+      \strng{fullhash}{303ea1dc92fd8c772eac56316b2074ef}
+      \strng{bibnamehash}{303ea1dc92fd8c772eac56316b2074ef}
+      \strng{authorbibnamehash}{303ea1dc92fd8c772eac56316b2074ef}
+      \strng{authornamehash}{303ea1dc92fd8c772eac56316b2074ef}
+      \strng{authorfullhash}{303ea1dc92fd8c772eac56316b2074ef}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://scrumguides.org}. Acesso em 6 de setembro de 2025}
+      \field{note}{Edição de Novembro de 2020}
+      \field{title}{The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game}
+      \field{year}{2020}
+    \endentry
+    \entry{fastapi}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=896ed2a98a4676a4d3baa773498060da}{%
+           family={{Sebastián Ramírez}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Sebastián Ramírez}%
+      }
+      \strng{namehash}{896ed2a98a4676a4d3baa773498060da}
+      \strng{fullhash}{896ed2a98a4676a4d3baa773498060da}
+      \strng{bibnamehash}{896ed2a98a4676a4d3baa773498060da}
+      \strng{authorbibnamehash}{896ed2a98a4676a4d3baa773498060da}
+      \strng{authornamehash}{896ed2a98a4676a4d3baa773498060da}
+      \strng{authorfullhash}{896ed2a98a4676a4d3baa773498060da}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -160,6 +565,12 @@
            family={{The pandas development team}},
            familyi={T\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Austin, Texas}%
+      }
+      \list{publisher}{1}{%
+        {NumFOCUS}%
+      }
       \strng{namehash}{a70a34e027eec45fe025cb823facb0d8}
       \strng{fullhash}{a70a34e027eec45fe025cb823facb0d8}
       \strng{bibnamehash}{a70a34e027eec45fe025cb823facb0d8}
@@ -173,14 +584,20 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Disponível em \url{https://pandas.pydata.org/}. Acesso em 2 de setembro de 2025}
-      \field{title}{Pandas}
-      \field{year}{2020}
+      \field{title}{pandas}
+      \field{year}{2025}
     \endentry
     \entry{nextjs}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a5ffd881cacb3404ccac7e94415ab626}{%
            family={{Vercel Inc.}},
            familyi={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, California}%
+      }
+      \list{publisher}{1}{%
+        {Vercel Inc.}%
       }
       \strng{namehash}{a5ffd881cacb3404ccac7e94415ab626}
       \strng{fullhash}{a5ffd881cacb3404ccac7e94415ab626}

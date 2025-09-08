@@ -225,12 +225,18 @@ INPUT conteudo\0 - pre\0.1 - capa.aux
 INPUT .\conteudo\0 - pre\0.5 - resumo.aux
 INPUT .\conteudo\0 - pre\0.5 - resumo.aux
 INPUT conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT conteudo\0 - pre\0.6 - ilustracoes.aux
 INPUT .\conteudo\0 - pre\0.8 - siglas.aux
 INPUT .\conteudo\0 - pre\0.8 - siglas.aux
 INPUT conteudo\0 - pre\0.8 - siglas.aux
 INPUT .\conteudo\0 - pre\0.9 - sumario.aux
 INPUT .\conteudo\0 - pre\0.9 - sumario.aux
 INPUT conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT conteudo\1 - apresentacao\apresentacao.aux
 INPUT .\conteudo\2 - ages I\index.aux
 INPUT .\conteudo\2 - ages I\index.aux
 INPUT conteudo\2 - ages I\index.aux
@@ -334,6 +340,15 @@ INPUT .\conteudo\0 - pre\0.5 - resumo.tex
 INPUT .\conteudo\0 - pre\0.5 - resumo.tex
 INPUT .\conteudo\0 - pre\0.5 - resumo.tex
 INPUT conteudo\0 - pre\0.5 - resumo.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+OUTPUT conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
 INPUT .\conteudo\0 - pre\0.8 - siglas.tex
 OUTPUT conteudo\0 - pre\0.8 - siglas.aux
 INPUT .\conteudo\0 - pre\0.8 - siglas.tex
@@ -349,6 +364,15 @@ INPUT conteudo\0 - pre\0.9 - sumario.tex
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+OUTPUT conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT conteudo\1 - apresentacao\apresentacao.tex
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT .\conteudo\2 - ages I\index.tex
 INPUT .\conteudo\2 - ages I\index.tex
 OUTPUT conteudo\2 - ages I\index.aux
@@ -361,22 +385,19 @@ INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
 INPUT conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
@@ -385,12 +406,58 @@ INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-home.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-caso.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-vinculos.png
 INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
 INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
 INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
 INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
 INPUT conteudo\2 - ages I\conteudo\3 - atividades.tex
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
 INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
 INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
 INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
@@ -401,6 +468,11 @@ INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
 INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
 INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
 INPUT conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT conteudo\2 - ages I\conteudo\4 - conclusao.tex
 INPUT .\conteudo\7 - pos\referencias.tex
 INPUT .\conteudo\7 - pos\referencias.tex
 OUTPUT conteudo\7 - pos\referencias.aux
@@ -408,12 +480,9 @@ INPUT .\conteudo\7 - pos\referencias.tex
 INPUT .\conteudo\7 - pos\referencias.tex
 INPUT conteudo\7 - pos\referencias.tex
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8t.tfm
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvro8t.vf
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8r.tfm
+OUTPUT main.lof
 OUTPUT main.toc
 INPUT main.aux
 INPUT .\conteudo\0 - pre\0.1 - capa.aux
@@ -422,12 +491,18 @@ INPUT conteudo\0 - pre\0.1 - capa.aux
 INPUT .\conteudo\0 - pre\0.5 - resumo.aux
 INPUT .\conteudo\0 - pre\0.5 - resumo.aux
 INPUT conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT conteudo\0 - pre\0.6 - ilustracoes.aux
 INPUT .\conteudo\0 - pre\0.8 - siglas.aux
 INPUT .\conteudo\0 - pre\0.8 - siglas.aux
 INPUT conteudo\0 - pre\0.8 - siglas.aux
 INPUT .\conteudo\0 - pre\0.9 - sumario.aux
 INPUT .\conteudo\0 - pre\0.9 - sumario.aux
 INPUT conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT conteudo\1 - apresentacao\apresentacao.aux
 INPUT .\conteudo\2 - ages I\index.aux
 INPUT .\conteudo\2 - ages I\index.aux
 INPUT conteudo\2 - ages I\index.aux

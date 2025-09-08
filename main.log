@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  8 SEP 2025 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  8 SEP 2025 17:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1061,7 +1061,22 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+ (main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                figma-Opercoes GAECO
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                wiki-Operacoes GAECO
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 46.
 Package biblatex Info: Reference segment=0 on input line 46.
 \openout2 = `"conteudo/0 - pre/0.1 - capa.aux"'.
@@ -1126,32 +1141,27 @@ l.9 \end{resumo}
  (conteudo/2 - ages I/index.tex (conteudo/2 - ages I/conteudo/1 - introducao.tex
 Package acronym Info: Label `acro:mprs' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
-Package acronym Info: Label `acro:nimp' newly defined as it shall be overridden
-although it is yet undefined on input line 2.
+<conteudo//2 - ages I//conteudo//figures//Equipe.jpeg, id=72, 1606.0pt x 1204.5pt>
+File: conteudo//2 - ages I//conteudo//figures//Equipe.jpeg Graphic file (type jpg)
+<use conteudo//2 - ages I//conteudo//figures//Equipe.jpeg>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//Equipe.jpeg  used on input line 11.
+(pdftex.def)             Requested size: 455.24411pt x 341.42978pt.
 
 
-Package acronym Warning: Acronym nimp is not defined on input line 2.
+LaTeX Warning: Citation 'wiki-Operacoes GAECO' on page 6 undefined on input line 14.
+
+) (conteudo/2 - ages I/conteudo/2 - desenvolvimento.tex [6
 
 
-Package acronym Warning: Acronym nimp is not defined on input line 2.
 
-<conteudo//2 - ages I//conteudo//figures//foto-time.jpg, id=72, 2741.24126pt x 1704.3675pt>
-File: conteudo//2 - ages I//conteudo//figures//foto-time.jpg Graphic file (type jpg)
-<use conteudo//2 - ages I//conteudo//figures//foto-time.jpg>
-Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//foto-time.jpg  used on input line 11.
-(pdftex.def)             Requested size: 455.24411pt x 283.02896pt.
-) (conteudo/2 - ages I/conteudo/2 - desenvolvimento.tex
+
+]
 Package acronym Info: Label `acro:ages' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
 Package acronym Info: Label `acro:ages' overridden on input line 4.
 Package acronym Info: Label `acro:ages' overridden on input line 4.
- [6
-
-
-
-
- <./conteudo//2 - ages I//conteudo//figures//foto-time.jpg>]
 Package acronym Info: Label `acro:ages' overridden on input line 6.
+ [7 <./conteudo//2 - ages I//conteudo//figures//Equipe.jpeg>]
 Package acronym Info: Label `acro:ages' overridden on input line 13.
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 16.
  (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
@@ -1160,13 +1170,22 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 16.
  (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [7]
-<conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg, id=114, 1009.97325pt x 579.51506pt>
+)
+Overfull \hbox (70.39418pt too wide) in paragraph at lines 16--17
+[]\T1/phv/m/n/12 Vincula fron-tend: [][]$\T1/cmtt/m/n/12 https : / / tools . ages . pucrs . br / opera-[]es-[]gaeco / operacoes-[]gaeco-[]mobile$[][] 
+ []
+
+
+Overfull \hbox (77.42007pt too wide) in paragraph at lines 17--18
+[]\T1/phv/m/n/12 Vincula bac-kend: [][]$\T1/cmtt/m/n/12 https : / / tools . ages . pucrs . br / opera-[]es-[]gaeco / operacoes-[]gaeco-[]backend$[][] 
+ []
+
+<conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg, id=106, 1009.97325pt x 579.51506pt>
 File: conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg Graphic file (type jpg)
 <use conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg  used on input line 32.
 (pdftex.def)             Requested size: 455.24411pt x 261.21265pt.
- [8 <./conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg>]
+[8] [9 <./conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg>]
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
 although it is yet undefined on input line 40.
 
@@ -1179,34 +1198,44 @@ Package acronym Warning: Acronym aws is not defined on input line 40.
 
 Package acronym Warning: Acronym aws is not defined on input line 40.
 
-<conteudo//2 - ages I//conteudo//figures//arquitetura.png, id=127, 634.62094pt x 411.03563pt>
-File: conteudo//2 - ages I//conteudo//figures//arquitetura.png Graphic file (type png)
-<use conteudo//2 - ages I//conteudo//figures//arquitetura.png>
-Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//arquitetura.png  used on input line 45.
-(pdftex.def)             Requested size: 455.24411pt x 294.86665pt.
-[9 <./conteudo//2 - ages I//conteudo//figures//arquitetura.png>]
-<conteudo//2 - ages I//conteudo//figures//tela-login.png, id=167, 1927.2pt x 1084.05pt>
+<conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png, id=128, 1568.86125pt x 597.73312pt>
+File: conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png Graphic file (type png)
+<use conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png>
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png  used on input line 45.
+(pdftex.def)             Requested size: 455.24411pt x 173.4476pt.
+
+LaTeX Warning: Citation 'wiki-Operacoes GAECO' on page 10 undefined on input line 48.
+
+[10 <./conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png>]
+Overfull \hbox (7.37216pt too wide) in paragraph at lines 60--61
+[][][]$\T1/cmtt/m/n/12 https : / / www . figma . com / design / eDNVyvDaNWyvONdiL053ff / Opera % C3 % A7oes-[]GAECO$[][] 
+ []
+
+<conteudo//2 - ages I//conteudo//figures//tela-login.png, id=168, 297.36093pt x 596.98032pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-login.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-login.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-login.png  used on input line 65.
-(pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
-<conteudo//2 - ages I//conteudo//figures//tela-home.png, id=170, 1927.2pt x 1084.05pt>
+(pdftex.def)             Requested size: 227.62206pt x 456.97084pt.
+
+LaTeX Warning: Citation 'figma-Opercoes GAECO' on page 11 undefined on input line 68.
+
+<conteudo//2 - ages I//conteudo//figures//tela-home.png, id=169, 1927.2pt x 1084.05pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-home.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-home.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-home.png  used on input line 74.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [10 <./conteudo//2 - ages I//conteudo//figures//tela-login.png>]
-<conteudo//2 - ages I//conteudo//figures//tela-caso.png, id=181, 1927.2pt x 1084.05pt>
+[11 <./conteudo//2 - ages I//conteudo//figures//tela-login.png>]
+<conteudo//2 - ages I//conteudo//figures//tela-caso.png, id=176, 1927.2pt x 1084.05pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-caso.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-caso.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-caso.png  used on input line 83.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
-<conteudo//2 - ages I//conteudo//figures//tela-vinculos.png, id=184, 1927.2pt x 1084.05pt>
+<conteudo//2 - ages I//conteudo//figures//tela-vinculos.png, id=179, 1927.2pt x 1084.05pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-vinculos.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-vinculos.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-vinculos.png  used on input line 92.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [11 <./conteudo//2 - ages I//conteudo//figures//tela-home.png> <./conteudo//2 - ages I//conteudo//figures//tela-caso.png>]) (conteudo/2 - ages I/conteudo/3 - atividades.tex (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-vinculos.png>]
+ [12 <./conteudo//2 - ages I//conteudo//figures//tela-home.png> <./conteudo//2 - ages I//conteudo//figures//tela-caso.png>]) (conteudo/2 - ages I/conteudo/3 - atividades.tex (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex [13 <./conteudo//2 - ages I//conteudo//figures//tela-vinculos.png>]
 Package acronym Info: Label `acro:jwt' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
 
@@ -1232,10 +1261,10 @@ Package acronym Warning: Acronym sittel is not defined on input line 7.
 
 Package acronym Warning: Acronym sittel is not defined on input line 7.
 
-) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [14])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [15])) [16]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (conteudo/7 - pos/referencias.tex [16
+ (conteudo/7 - pos/referencias.tex [17
 
 
 
@@ -1243,7 +1272,7 @@ Package acronym Warning: Acronym sittel is not defined on input line 7.
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
-) [17]
+) [18]
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -1260,17 +1289,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25890 strings out of 474486
- 465481 string characters out of 5743756
+ 25885 strings out of 474486
+ 465442 string characters out of 5743756
  1942542 words of memory out of 5000000
- 47682 multiletter control sequences out of 15000+600000
+ 47677 multiletter control sequences out of 15000+600000
  579641 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1188b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (18 pages, 2297149 bytes).
+Output written on main.pdf (19 pages, 1065669 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
+ 391 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
  100 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -385,13 +385,13 @@ INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT conteudo\2 - ages I\conteudo\1 - introducao.tex
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\foto-time.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Equipe.jpeg
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
 INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
@@ -410,21 +410,21 @@ INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\banco-postgresql.jpeg
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
-INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\arquitetura.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\Diagrama_de_Deploy.png
 INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
 INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png
 INPUT .\conteudo\\2 - ages I\\conteudo\\figures\\tela-login.png

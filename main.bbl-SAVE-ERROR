@@ -361,6 +361,30 @@
       \field{title}{PostgreSQL}
       \field{year}{2025}
     \endentry
+    \entry{figma-vincula}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6fe2632f59db58bfcbd696b086a1d806}{%
+           family={{Projeto Vincula}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{fullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{bibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorbibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authornamehash}{6fe2632f59db58bfcbd696b086a1d806}
+      \strng{authorfullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em: \url{https://www.figma.com/design/mvL3UaJUd8Rnnctve1iSpV/Vincula-AGES}. Acesso em 6 de setembro de 2025}
+      \field{title}{Figma do Projeto Vincula}
+      \field{year}{2025}
+    \endentry
     \entry{wiki-vincula}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6fe2632f59db58bfcbd696b086a1d806}{%
@@ -373,8 +397,10 @@
       \strng{authorbibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
       \strng{authornamehash}{6fe2632f59db58bfcbd696b086a1d806}
       \strng{authorfullhash}{6fe2632f59db58bfcbd696b086a1d806}
+      \field{extraname}{2}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -496,7 +522,7 @@
       \field{year}{2025}
     \endentry
   \enddatalist
-  \missing{figma-Operacoes GAECO}
+  \missing{figma-Opercoes GAECO}
   \missing{wiki-Operacoes GAECO}
 \endrefsection
 \endinput

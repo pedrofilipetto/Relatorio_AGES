@@ -1,20 +1,12 @@
 \section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
 
-\subsection{Metodologia de Desenvolvimento}
-  O desenvolvimento do projeto é organizado em Sprints de duas semanas, seguindo os princípios da metodologia Scrum \cite{scrum}, conforme proposto pela \acs{ages}. Nossa equipe está inserida em uma estrutura de squads, onde cada um é liderado por um colega de \acs{ages} III e composto por alunos de \acs{ages} I e II, o que permite um trabalho mais focado e colaborativo.
-
-  Cada Sprint se inicia com uma cerimônia de Planejamento (Sprint Planning), momento em que os colegas \acs{ages} IV apresentam as User Stories e as tarefas são distribuídas entre as equipes.
-
-  Para garantir o alinhamento contínuo durante a execução da Sprint, adotamos uma rotina de sincronização diária. Durante as aulas presenciais de terça e quinta-feira, realizamos uma Daily Scrum, na qual o andamento das tarefas registradas no Azure DevOps \cite{azuredevops} é revisado. Nos demais dias, essa sincronização ocorre de forma assíncrona por meio de um check-in diário em nosso servidor do Discord \cite{discord}, que também funciona como nosso principal canal para comunicação rápida e colaboração em tempo real.
-
-  Ao final do ciclo, a Sprint se conclui com duas cerimônias principais: a Revisão (Sprint Review), na qual apresentamos o incremento de trabalho desenvolvido ao stakeholder para validação, e a Retrospectiva (Sprint Retrospective), uma reunião interna focada na melhoria contínua de nossos processos.
-
 \subsection{Repositório do Código Fonte do Projeto}
-  O projeto conta com dois repositórios separados, ambos foram mantidos no GitLab da \ac{ages}. Um engloba o código do frontend e o outro do backend.
+  O projeto conta com três repositórios separados, e todos foram mantidos no GitLab da \ac{ages}. Um engloba o código do frontend, outro do backend e o último contém a Infraestrutura.
   
     \begin{itemize}
-      \item Vincula frontend: \url{https://tools.ages.pucrs.br/opera-es-gaeco/operacoes-gaeco-mobile}
-      \item Vincula backend: \url{https://tools.ages.pucrs.br/opera-es-gaeco/operacoes-gaeco-backend}
+      \item Operações GAECO frontend: \url{https://tools.ages.pucrs.br/opera-es-gaeco/operacoes-gaeco-mobile}
+      \item Operações GAECO backend: \url{https://tools.ages.pucrs.br/opera-es-gaeco/operacoes-gaeco-backend}
+      \item Operações GAECO: \url{https://tools.ages.pucrs.br/opera-es-gaeco/operacoes-gaeco-infra}
     \end{itemize}
 
 \subsection{Banco de Dados Utilizado}
@@ -53,7 +45,7 @@
 \subsection{Protótipos das Telas Desenvolvidas}
   Os protótipos para as telas centrais da aplicação foram desenvolvidos utilizando a ferramenta Figma \cite{figma}. O manual de identidade visual do \acs{mprs} foi usado como referência para cores, estilo e logomarcas. 
   
-  Algumas das telas são: Tela de Autenticação (\autoref{fig:tela-login}), Tela de Listagem de Casos (\autoref{fig:tela-home}), Tela do Caso (\autoref{fig:tela-caso}) e a Tela de Visualização de Vínculos (\autoref{fig:tela-vinculos}).
+  Algumas das telas são: Tela de Autenticação (\autoref{fig:tela-login}), Tela de Listagem de Operações (\autoref{fig:tela-operacoes}) e Tela do Caso (\autoref{fig:tela-alvos}).
 
   As demais telas estão disponíveis no Figma do projeto:
   
@@ -62,37 +54,28 @@
   \begin{figure}[H]
     \centering
     \small
-    \includegraphics[width=0.5\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-login.png}
+    \includegraphics[width=0.4\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-login.png}
     \caption{Tela de Autenticação}
-    Fonte: Adaptado de \textcites{figma-Opercoes GAECO}
+    Fonte: Adaptado de \textcites{figma-Operacoes GAECO}
     \label{fig:tela-login}
   \end{figure}
 
   \begin{figure}[H]
     \centering
     \small
-    \includegraphics[width=1\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-home.png}
-    \caption{Tela de Listagem de Casos}
-    Fonte: Adaptado de \textcites{figma-vincula}
-    \label{fig:tela-home}
+    \includegraphics[width=0.4\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-operacoes.png}
+    \caption{Tela de Listagem de Operações}
+    Fonte: Adaptado de \textcites{figma-Operacoes GAECO}
+    \label{fig:tela-operacoes}
   \end{figure}
 
   \begin{figure}[H]
     \centering
     \small
-    \includegraphics[width=1\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-caso.png}
-    \caption{Tela do Caso}
-    Fonte: Adaptado de \textcites{figma-vincula}
-    \label{fig:tela-caso}
-  \end{figure}
-
-  \begin{figure}[H]
-    \centering
-    \small
-    \includegraphics[width=1\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-vinculos.png}
-    \caption{Tela de Visualização de Vínculos}
-    Fonte: Adaptado de \textcites{figma-vincula}
-    \label{fig:tela-vinculos}
+    \includegraphics[width=0.4\linewidth]{conteudo//2 - ages I//conteudo//figures//tela-alvos.png}
+    \caption{Tela de Listagem de Alvos}
+    Fonte: Adaptado de \textcites{figma-Operacoes GAECO}
+    \label{fig:tela-alvos}
   \end{figure}
 
 \subsection{Tecnologias Utilizadas}

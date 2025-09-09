@@ -472,9 +472,6 @@ OUTPUT conteudo\7 - pos\referencias.aux
 INPUT .\conteudo\7 - pos\referencias.tex
 INPUT .\conteudo\7 - pos\referencias.tex
 INPUT conteudo\7 - pos\referencias.tex
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8t.tfm
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvro8t.vf
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8r.tfm
 OUTPUT main.lof
 OUTPUT main.toc
 INPUT main.aux
@@ -512,5 +509,3 @@ INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
 INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb
-INPUT C:\Users\Pedro\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb

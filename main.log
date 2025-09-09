@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  9 SEP 2025 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  9 SEP 2025 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1065,6 +1065,13 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                fastapi
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                figma-Operacoes GAECO
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1072,7 +1079,28 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                nextjs
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                react
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                wiki-Operacoes GAECO
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                wiki-vincula
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1173,11 +1201,14 @@ Overfull \hbox (81.57294pt too wide) in paragraph at lines 9--10
 []\T1/phv/m/n/12 Operações GA-ECO: [][]$\T1/cmtt/m/n/12 https : / / tools . ages . pucrs . br / opera-[]es-[]gaeco / operacoes-[]gaeco-[]infra$[][] 
  []
 
-<conteudo//2 - ages I//conteudo//figures//banco_de_dados.png, id=90, 625.73775pt x 505.89pt>
+<conteudo//2 - ages I//conteudo//figures//banco_de_dados.png, id=88, 625.73775pt x 505.89pt>
 File: conteudo//2 - ages I//conteudo//figures//banco_de_dados.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//banco_de_dados.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//banco_de_dados.png  used on input line 24.
 (pdftex.def)             Requested size: 455.24411pt x 368.05382pt.
+
+LaTeX Warning: Citation 'wiki-vincula' on page 7 undefined on input line 27.
+
 [7] [8 <./conteudo//2 - ages I//conteudo//figures//banco_de_dados.png>]
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
 although it is yet undefined on input line 32.
@@ -1191,7 +1222,7 @@ Package acronym Warning: Acronym aws is not defined on input line 32.
 
 Package acronym Warning: Acronym aws is not defined on input line 32.
 
-<conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png, id=112, 1568.86125pt x 597.73312pt>
+<conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png, id=106, 1568.86125pt x 597.73312pt>
 File: conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//Diagrama_de_Deploy.png  used on input line 37.
@@ -1204,7 +1235,7 @@ Overfull \hbox (7.37216pt too wide) in paragraph at lines 52--53
 [][][]$\T1/cmtt/m/n/12 https : / / www . figma . com / design / eDNVyvDaNWyvONdiL053ff / Opera % C3 % A7oes-[]GAECO$[][] 
  []
 
-<conteudo//2 - ages I//conteudo//figures//tela-login.png, id=151, 297.36093pt x 596.98032pt>
+<conteudo//2 - ages I//conteudo//figures//tela-login.png, id=142, 297.36093pt x 596.98032pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-login.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-login.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-login.png  used on input line 57.
@@ -1212,7 +1243,7 @@ Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-login.png
 
 LaTeX Warning: Citation 'figma-Operacoes GAECO' on page 10 undefined on input line 60.
 
-<conteudo//2 - ages I//conteudo//figures//tela-operacoes.png, id=152, 237.88875pt x 476.982pt>
+<conteudo//2 - ages I//conteudo//figures//tela-operacoes.png, id=143, 237.88875pt x 476.982pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-operacoes.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-operacoes.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-operacoes.png  used on input line 66.
@@ -1221,7 +1252,7 @@ Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-operacoes
 LaTeX Warning: Citation 'figma-Operacoes GAECO' on page 10 undefined on input line 69.
 
 [10 <./conteudo//2 - ages I//conteudo//figures//tela-login.png>]
-<conteudo//2 - ages I//conteudo//figures//tela-alvos.png, id=157, 237.2865pt x 477.58424pt>
+<conteudo//2 - ages I//conteudo//figures//tela-alvos.png, id=148, 237.2865pt x 477.58424pt>
 File: conteudo//2 - ages I//conteudo//figures//tela-alvos.png Graphic file (type png)
 <use conteudo//2 - ages I//conteudo//figures//tela-alvos.png>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-alvos.png  used on input line 75.
@@ -1230,18 +1261,25 @@ Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-alvos.png
 
 LaTeX Warning: Citation 'figma-Operacoes GAECO' on page 11 undefined on input line 78.
 
-[11 <./conteudo//2 - ages I//conteudo//figures//tela-operacoes.png>]) (conteudo/2 - ages I/conteudo/3 - atividades.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-alvos.png>] (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+[11 <./conteudo//2 - ages I//conteudo//figures//tela-operacoes.png>]
+
+LaTeX Warning: Citation 'react' on page 12 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'nextjs' on page 12 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'fastapi' on page 12 undefined on input line 82.
+
+) (conteudo/2 - ages I/conteudo/3 - atividades.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-alvos.png>] (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (conteudo/7 - pos/referencias.tex
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
- [16
+ (conteudo/7 - pos/referencias.tex) [16
 
 
 
 
-]) [17]
+]
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -1258,17 +1296,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25820 strings out of 474486
- 463731 string characters out of 5743756
- 1943542 words of memory out of 5000000
- 47626 multiletter control sequences out of 15000+600000
- 579641 words of font info for 61 fonts, out of 8000000 for 9000
+ 25780 strings out of 474486
+ 462739 string characters out of 5743756
+ 1939542 words of memory out of 5000000
+ 47595 multiletter control sequences out of 15000+600000
+ 576625 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1188b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (18 pages, 816188 bytes).
+ <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on main.pdf (17 pages, 804272 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  95 words of extra memory for PDF output out of 10000 (max. 10000000)
 

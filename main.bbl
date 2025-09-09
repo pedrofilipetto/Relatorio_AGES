@@ -193,62 +193,6 @@
       \field{title}{Figma}
       \field{year}{2025}
     \endentry
-    \entry{gitlabrunner}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f1beeea59b5d05c17b7a8cfb2cb0a76c}{%
-           family={{GitLab Inc.}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, California}%
-      }
-      \list{publisher}{1}{%
-        {GitLab Inc.}%
-      }
-      \strng{namehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \strng{fullhash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \strng{bibnamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \strng{authorbibnamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \strng{authornamehash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \strng{authorfullhash}{f1beeea59b5d05c17b7a8cfb2cb0a76c}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://docs.gitlab.com/runner}. Acesso em 6 de setembro de 2025}
-      \field{title}{GitLab Runner}
-      \field{year}{2025}
-    \endentry
-    \entry{react}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=350a86b0327152e3a50596538f38a5db}{%
-           family={{Meta Platforms, Inc.}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Menlo Park, California}%
-      }
-      \list{publisher}{1}{%
-        {Meta Platforms, Inc.}%
-      }
-      \strng{namehash}{350a86b0327152e3a50596538f38a5db}
-      \strng{fullhash}{350a86b0327152e3a50596538f38a5db}
-      \strng{bibnamehash}{350a86b0327152e3a50596538f38a5db}
-      \strng{authorbibnamehash}{350a86b0327152e3a50596538f38a5db}
-      \strng{authornamehash}{350a86b0327152e3a50596538f38a5db}
-      \strng{authorfullhash}{350a86b0327152e3a50596538f38a5db}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://react.dev}. Acesso em 2 de setembro de 2025}
-      \field{title}{React}
-      \field{year}{2025}
-    \endentry
     \entry{typescript}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
@@ -277,32 +221,32 @@
       \field{title}{TypeScript}
       \field{year}{2025}
     \endentry
-    \entry{neo4j}{software}{}
+    \entry{java}{software}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2c62f21ebf40e60bcbdb27fa929899f6}{%
-           family={{Neo4j, Inc.}},
-           familyi={N\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d51288dc67d9f5e0330d927a009e208b}{%
+           family={{Oracle Corporation}},
+           familyi={O\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {San Mateo, California}%
+        {Austin, Texas}%
       }
       \list{publisher}{1}{%
-        {Neo4j, Inc.}%
+        {Oracle Corporation}%
       }
-      \strng{namehash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \strng{fullhash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \strng{bibnamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \strng{authorbibnamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \strng{authornamehash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \strng{authorfullhash}{2c62f21ebf40e60bcbdb27fa929899f6}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{fullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{bibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorbibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authornamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorfullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://neo4j.com}. Acesso em 6 de setembro de 2025}
-      \field{title}{Neo4j Graph Database Platform}
+      \field{howpublished}{Disponível em \url{https://www.oracle.com/java/}. Acesso em 9 de setembro de 2025}
+      \field{title}{Java Platform, Standard Edition}
       \field{year}{2025}
     \endentry
     \entry{postgresql}{software}{}
@@ -333,115 +277,13 @@
       \field{title}{PostgreSQL}
       \field{year}{2025}
     \endentry
-    \entry{wiki-vincula}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6fe2632f59db58bfcbd696b086a1d806}{%
-           family={{Projeto Vincula}},
-           familyi={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{6fe2632f59db58bfcbd696b086a1d806}
-      \strng{fullhash}{6fe2632f59db58bfcbd696b086a1d806}
-      \strng{bibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
-      \strng{authorbibnamehash}{6fe2632f59db58bfcbd696b086a1d806}
-      \strng{authornamehash}{6fe2632f59db58bfcbd696b086a1d806}
-      \strng{authorfullhash}{6fe2632f59db58bfcbd696b086a1d806}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em: \url{https://tools.ages.pucrs.br/vincula/wiki/-/wikis/home}. Acesso em 6 de setembro de 2025}
-      \field{title}{Wiki do Projeto Vincula}
-      \field{year}{2025}
-    \endentry
-    \entry{python}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c7b5508dc5e59a2846d22617276cc27c}{%
-           family={{Python Software Foundation}},
-           familyi={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Beaverton, Oregon}%
-      }
-      \list{publisher}{1}{%
-        {Python Software Foundation}%
-      }
-      \strng{namehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{fullhash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{bibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authorbibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://www.python.org/}. Acesso em 2 de setembro de 2025}
-      \field{title}{Python}
-      \field{year}{2025}
-    \endentry
-    \entry{fastapi}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=896ed2a98a4676a4d3baa773498060da}{%
-           family={{Sebastián Ramírez}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin, Germany}%
-      }
-      \list{publisher}{1}{%
-        {Sebastián Ramírez}%
-      }
-      \strng{namehash}{896ed2a98a4676a4d3baa773498060da}
-      \strng{fullhash}{896ed2a98a4676a4d3baa773498060da}
-      \strng{bibnamehash}{896ed2a98a4676a4d3baa773498060da}
-      \strng{authorbibnamehash}{896ed2a98a4676a4d3baa773498060da}
-      \strng{authornamehash}{896ed2a98a4676a4d3baa773498060da}
-      \strng{authorfullhash}{896ed2a98a4676a4d3baa773498060da}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://fastapi.tiangolo.com/}. Acesso em 2 de setembro de 2025}
-      \field{title}{FastAPI}
-      \field{year}{2025}
-    \endentry
-    \entry{nextjs}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a5ffd881cacb3404ccac7e94415ab626}{%
-           family={{Vercel Inc.}},
-           familyi={V\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, California}%
-      }
-      \list{publisher}{1}{%
-        {Vercel Inc.}%
-      }
-      \strng{namehash}{a5ffd881cacb3404ccac7e94415ab626}
-      \strng{fullhash}{a5ffd881cacb3404ccac7e94415ab626}
-      \strng{bibnamehash}{a5ffd881cacb3404ccac7e94415ab626}
-      \strng{authorbibnamehash}{a5ffd881cacb3404ccac7e94415ab626}
-      \strng{authornamehash}{a5ffd881cacb3404ccac7e94415ab626}
-      \strng{authorfullhash}{a5ffd881cacb3404ccac7e94415ab626}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://nextjs.org/}. Acesso em 2 de setembro de 2025}
-      \field{title}{NextJs}
-      \field{year}{2025}
-    \endentry
   \enddatalist
+  \missing{fastapi}
   \missing{figma-Operacoes GAECO}
+  \missing{nextjs}
+  \missing{react}
   \missing{wiki-Operacoes GAECO}
+  \missing{wiki-vincula}
 \endrefsection
 \endinput
 

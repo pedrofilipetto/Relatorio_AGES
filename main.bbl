@@ -277,34 +277,6 @@
       \field{title}{TypeScript}
       \field{year}{2025}
     \endentry
-    \entry{materialui}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=50cfb6962dd89af2dc6e8df60a3db0db}{%
-           family={{MUI Team}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {[S.l.]}%
-      }
-      \list{publisher}{1}{%
-        {MUI}%
-      }
-      \strng{namehash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \strng{fullhash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \strng{bibnamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \strng{authorbibnamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \strng{authornamehash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \strng{authorfullhash}{50cfb6962dd89af2dc6e8df60a3db0db}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://mui.com}. Acesso em 6 de setembro de 2025}
-      \field{title}{MUI}
-      \field{year}{2025}
-    \endentry
     \entry{neo4j}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2c62f21ebf40e60bcbdb27fa929899f6}{%
@@ -437,34 +409,6 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Disponível em \url{https://fastapi.tiangolo.com/}. Acesso em 2 de setembro de 2025}
       \field{title}{FastAPI}
-      \field{year}{2025}
-    \endentry
-    \entry{pandas}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a70a34e027eec45fe025cb823facb0d8}{%
-           family={{The pandas development team}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Austin, Texas}%
-      }
-      \list{publisher}{1}{%
-        {NumFOCUS}%
-      }
-      \strng{namehash}{a70a34e027eec45fe025cb823facb0d8}
-      \strng{fullhash}{a70a34e027eec45fe025cb823facb0d8}
-      \strng{bibnamehash}{a70a34e027eec45fe025cb823facb0d8}
-      \strng{authorbibnamehash}{a70a34e027eec45fe025cb823facb0d8}
-      \strng{authornamehash}{a70a34e027eec45fe025cb823facb0d8}
-      \strng{authorfullhash}{a70a34e027eec45fe025cb823facb0d8}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Disponível em \url{https://pandas.pydata.org/}. Acesso em 2 de setembro de 2025}
-      \field{title}{pandas}
       \field{year}{2025}
     \endentry
     \entry{nextjs}{software}{}

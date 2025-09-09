@@ -21,7 +21,7 @@
   \begin{figure}[H]
     \centering
     \small
-    \includegraphics[width=1\linewidth]{conteudo//2 - ages I//conteudo//figures//banco-postgresql.jpeg}
+    \includegraphics[width=1\linewidth]{conteudo//2 - ages I//conteudo//figures//banco_de_dados.png}
     \caption{Modelo do banco relacional}
     Fonte: Adaptado de \textcites{wiki-vincula}
     \label{fig:modelo-banco}
@@ -40,7 +40,7 @@
     \label{fig:diagrama-deploy}
   \end{figure}
 
-  Conforme ilustrado pelo diagrama da \autoref{fig:diagrama-deploy}, a arquitetura da solução segue um fluxo claro e desacoplado. A interface com o usuário, hospedada no AWS Amplify \cite{amplify}, consome uma API backend em Python \cite{python} com FastAPI. Esta API, juntamente com o banco de dados PostgreSQL, opera de forma containerizada com Docker \cite{docker} em uma instância Amazon EC2 \cite{ec2}. O sistema é complementado pelo Amazon S3 \cite{s3}, responsável pelo armazenamento de arquivos, e por um GitLab Runner \cite{gitlabrunner} na mesma instância EC2, que automatiza o processo de integração e entrega contínua (CI/CD).
+  Conforme ilustrado pelo diagrama da \autoref{fig:diagrama-deploy}, a arquitetura da solução segue um fluxo claro e desacoplado. A interface com o usuário, hospedada no AWS Amplify \cite{amplify}, consome uma API backend em Java \cite{python} com Spring Boot. Esta API, juntamente com o banco de dados PostgreSQL, opera de forma containerizada com Docker \cite{docker} em uma instância Amazon EC2 \cite{ec2}. O sistema é complementado pelo Amazon S3 \cite{s3}, responsável pelo armazenamento de arquivos, e por um GitLab Runner \cite{gitlabrunner} na mesma instância EC2, que automatiza o processo de integração e entrega contínua (CI/CD).
 
 \subsection{Protótipos das Telas Desenvolvidas}
   Os protótipos para as telas centrais da aplicação foram desenvolvidos utilizando a ferramenta Figma \cite{figma}. O manual de identidade visual do \acs{mprs} foi usado como referência para cores, estilo e logomarcas. 
@@ -79,10 +79,10 @@
   \end{figure}
 
 \subsection{Tecnologias Utilizadas}
-  O projeto é construido utilizando quatro tecnologias principais, sendo elas o React \cite{react} com NextJs \cite{nextjs} e a linguagem TypeScript \cite{typescript} para o frontend, o FastAPI \cite{fastapi}, com a linguagem Python para o backend, PostgreSQL para o banco relacional e Neo4j \cite{neo4j} para o banco de grafos.
+  O projeto é construido utilizando quatro tecnologias principais, sendo elas o React Native \cite{react} com Expo \cite{nextjs} e a linguagem TypeScript \cite{typescript} para o frontend, o Spring Boot \cite{fastapi}, com a linguagem Java para o backend, PostgreSQL para o banco relacional.
   
-  O NextJs foi escolhido para o frontend por ser uma framework moderna e que abstrai diversos aspectos trabalhosos do desenvolvimento com a biblioteca React pura.
+  O Spring Boot foi escolhido por sua facilidade de configuração, suporte a microserviços, integração com diversos bancos de dados e ecossistema rico para desenvolvimento de APIs REST.
 
-  No backend, logo de início, decidimos que uma framework Python seria essencial para o projeto, visto a necessidade de manipular grandes volumes de dados de forma eficiênte. Por isso, optamos pela FastAPI, que torna o processo de programar endpoints simplificado. O processamento de dados será feito com a biblioteca Pandas \cite{pandas}.
+  No backend, logo de início, decidimos que este projeto utilizaria Java 21, uma linguagem robusta, orientada a objetos e amplamente utilizada para aplicações corporativas.
 
-  O gerenciamento de tarefas, o planejamento das sprints e o controle do backlog são realizados na plataforma Azure DevOps. O controle de versão é feito com Git, hospedado no servidor da \acs{ages}. Todo o ambiente de desenvolvimento é containerizado com Docker.
+  O gerenciamento de tarefas, o planejamento das sprints e o controle do backlog são realizados na plataforma ClickUp. O controle de versão é feito com Git, hospedado no servidor da \acs{ages}. Todo o ambiente de desenvolvimento é containerizado com Docker.

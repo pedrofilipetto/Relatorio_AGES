@@ -2474,9 +2474,6 @@
     <bcf:citekey order="19" intorder="1">nextjs</bcf:citekey>
     <bcf:citekey order="20" intorder="1">typescript</bcf:citekey>
     <bcf:citekey order="21" intorder="1">fastapi</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">neo4j</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">pandas</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">materialui</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

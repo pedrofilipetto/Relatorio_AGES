@@ -19,4 +19,4 @@
 \contentsline {subsection}{\numberline {2.3.2}Sprint 1}{14}{subsection.2.3.2}%
 \contentsline {section}{\numberline {2.4}Conclusão}{15}{section.2.4}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Referências}{16}{section*.18}%
+\contentsline {chapter}{Referências}{16}{section*.15}%

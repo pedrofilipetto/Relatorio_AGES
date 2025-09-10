@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  9 SEP 2025 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  9 SEP 2025 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1065,28 +1065,7 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                fastapi
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                figma-Operacoes GAECO
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                nextjs
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                react
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1261,20 +1240,10 @@ Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures//tela-alvos.png
 
 LaTeX Warning: Citation 'figma-Operacoes GAECO' on page 11 undefined on input line 78.
 
-[11 <./conteudo//2 - ages I//conteudo//figures//tela-operacoes.png>]
-
-LaTeX Warning: Citation 'react' on page 12 undefined on input line 82.
-
-
-LaTeX Warning: Citation 'nextjs' on page 12 undefined on input line 82.
-
-
-LaTeX Warning: Citation 'fastapi' on page 12 undefined on input line 82.
-
-) (conteudo/2 - ages I/conteudo/3 - atividades.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-alvos.png>] (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+[11 <./conteudo//2 - ages I//conteudo//figures//tela-operacoes.png>]) (conteudo/2 - ages I/conteudo/3 - atividades.tex [12 <./conteudo//2 - ages I//conteudo//figures//tela-alvos.png>] (conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [13])) (conteudo/2 - ages I/conteudo/4 - conclusao.tex)) [14]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (conteudo/7 - pos/referencias.tex) [16
+ (conteudo/7 - pos/referencias.tex) [15
 
 
 
@@ -1296,17 +1265,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25780 strings out of 474486
- 462739 string characters out of 5743756
- 1939542 words of memory out of 5000000
- 47595 multiletter control sequences out of 15000+600000
+ 25791 strings out of 474486
+ 463068 string characters out of 5743756
+ 1942542 words of memory out of 5000000
+ 47605 multiletter control sequences out of 15000+600000
  576625 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1188b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (17 pages, 804272 bytes).
+Output written on main.pdf (16 pages, 805345 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
  95 words of extra memory for PDF output out of 10000 (max. 10000000)
 

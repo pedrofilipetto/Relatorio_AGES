@@ -193,6 +193,34 @@
       \field{title}{Figma}
       \field{year}{2025}
     \endentry
+    \entry{reactnative}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=350a86b0327152e3a50596538f38a5db}{%
+           family={{Meta Platforms, Inc.}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Menlo Park, California}%
+      }
+      \list{publisher}{1}{%
+        {Meta Platforms, Inc.}%
+      }
+      \strng{namehash}{350a86b0327152e3a50596538f38a5db}
+      \strng{fullhash}{350a86b0327152e3a50596538f38a5db}
+      \strng{bibnamehash}{350a86b0327152e3a50596538f38a5db}
+      \strng{authorbibnamehash}{350a86b0327152e3a50596538f38a5db}
+      \strng{authornamehash}{350a86b0327152e3a50596538f38a5db}
+      \strng{authorfullhash}{350a86b0327152e3a50596538f38a5db}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://reactnative.dev/}. Acesso em 9 de setembro de 2025}
+      \field{title}{React Native}
+      \field{year}{2025}
+    \endentry
     \entry{typescript}{software}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
@@ -277,11 +305,36 @@
       \field{title}{PostgreSQL}
       \field{year}{2025}
     \endentry
+    \entry{springboot}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7da57f1962f18dcb73eba4178b672fed}{%
+           family={{VMware, Inc.}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Palo Alto, California}%
+      }
+      \list{publisher}{1}{%
+        {VMware, Inc.}%
+      }
+      \strng{namehash}{7da57f1962f18dcb73eba4178b672fed}
+      \strng{fullhash}{7da57f1962f18dcb73eba4178b672fed}
+      \strng{bibnamehash}{7da57f1962f18dcb73eba4178b672fed}
+      \strng{authorbibnamehash}{7da57f1962f18dcb73eba4178b672fed}
+      \strng{authornamehash}{7da57f1962f18dcb73eba4178b672fed}
+      \strng{authorfullhash}{7da57f1962f18dcb73eba4178b672fed}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em \url{https://spring.io/projects/spring-boot}. Acesso em 9 de setembro de 2025}
+      \field{title}{Spring Boot}
+      \field{year}{2025}
+    \endentry
   \enddatalist
-  \missing{fastapi}
   \missing{figma-Operacoes GAECO}
-  \missing{nextjs}
-  \missing{react}
   \missing{wiki-Operacoes GAECO}
   \missing{wiki-vincula}
 \endrefsection
